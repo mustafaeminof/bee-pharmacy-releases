@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "installer": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.0.0/BeePharma-Setup-1.0.0.exe",
+  "zip": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.0.0/BeePharma-Windows-1.0.0.zip",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/tag/v1.0.0",
+  "publishedAt": "2026-08-29T00:00:00Z"
+}
