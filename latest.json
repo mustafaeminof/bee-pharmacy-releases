@@ -1,7 +1,9 @@
 {
-  "version": "1.1.1",
-  "installer": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.1.1/BeePharma-Setup-1.1.1.exe",
-  "zip": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.1.1/BeePharma-Windows-1.1.1.zip",
-  "releaseUrl": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/tag/v1.1.1",
-  "publishedAt": "2026-08-30T01:12:46Z"
+  "version": "1.2.1",
+  "installer": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.2.1/BeePharma-Setup-1.2.1.exe",
+  "zip": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.2.1/BeePharma-Windows-1.2.1.zip",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/tag/v1.2.1",
+  "publishedAt": "2026-08-31T03:44:09Z",
+  "sha256": "dbd8ed10ac8c69b4aa7b19c23bff2ab77f8223a722dfaf1ca0ce2e06dbdb4e43",
+  "signature": "CbF6GGXzPcYSz9AXkVrprXrdvXzZ65ZF4Lvkx4H/qnGYtTufZcMpUr0hsrMo5V14xj1jvqVNP39NQCxSmQ0kBQ=="
 }
