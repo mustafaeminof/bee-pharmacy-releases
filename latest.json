@@ -1,9 +1,9 @@
 {
-  "version": "1.3.0",
-  "installer": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.3.0/BeePharma-Setup-1.3.0.exe",
-  "zip": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.3.0/BeePharma-Windows-1.3.0.zip",
-  "releaseUrl": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/tag/v1.3.0",
-  "publishedAt": "2026-09-04T02:59:58Z",
-  "sha256": "8fb843c25ebc99a09746ab24424862f02ceb727565f362608b5a2308efce98d3",
-  "signature": "+Dp5YIBPHLRXRV54Ccfz8iIWnvnWJAksSAC+xJH2oFzFnjepM1jyJunyoCtAhsvE7+ClO6x6Ya1s+9yxg/ciDw=="
+  "version": "1.4.0",
+  "installer": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.4.0/BeePharma-Setup-1.4.0.exe",
+  "zip": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/download/v1.4.0/BeePharma-Windows-1.4.0.zip",
+  "releaseUrl": "https://github.com/mustafaeminof/bee-pharmacy-releases/releases/tag/v1.4.0",
+  "publishedAt": "2026-09-06T16:54:10Z",
+  "sha256": "a3a0a678f3d07f7bb7f142cb0d7ba65b9a8a4d61fac97266663c4375d633be09",
+  "signature": "xPhH8vTik5/fn7HvUqNKtEvR0zz7o8WD0nTPtnTPW15JocTcjKQM27+zeMnMdWZTsKsa+an+Vdf5cttyZh0aDA=="
 }
